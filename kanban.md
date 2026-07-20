@@ -7,8 +7,6 @@
 
 ## 1. A FAZER (To Do)
 
-* [ ] **[Fase 3 — Feature Engineering]** Criação da coluna `potencia = Rotational speed × Torque`
-* [ ] **[Fase 3 — Feature Engineering]** Validação da nova feature por meio de análises gráficas e estatísticas
 * [ ] **[Fase 4 — Divisão e Balanceamento]** Separação de X (features) e y (target), removendo colunas irrelevantes
 * [ ] **[Fase 4 — Divisão e Balanceamento]** Split 80/20 com `stratify=y`
 * [ ] **[Fase 4 — Balanceamento]** Aplicação do SMOTE apenas na base de treino
@@ -29,10 +27,6 @@
 
 ---
 
-## 2. EM ANDAMENTO (Doing)
-
----
-
 ## 3. CONCLUÍDO (Done)
 
 * [x] Configuração do ambiente local de desenvolvimento | Ambiente: VS Code + Jupyter Notebook
@@ -49,5 +43,7 @@
 * [x] **[Fase 2 — Data Prep]** Verificação de valores ausentes por coluna
 * [x] **[Fase 2 — Data Prep]** Definição e aplicação da estratégia de imputação para valores faltantes
 * [x] **[Fase 2 — Data Prep]** Geração de boxplots para identificação e análise de outliers nas variáveis contínuas
+* [x] **[Fase 3 — Feature Engineering]** Criação da coluna `potencia = Rotational speed × Torque`
+* [x] **[Fase 3 — Feature Engineering]** Validação da nova feature por meio de análises gráficas e estatísticas
 
 ---
