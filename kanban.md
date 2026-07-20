@@ -1,4 +1,4 @@
-# Quadro Kanban — Pipeline Preditivo
+# Quadro Kanban - Pipeline Preditivo
 
 > **Status do Projeto:** Não iniciado
 > **Metodologia:** Kanban Visual adaptado para documentação Markdown.
@@ -50,5 +50,11 @@
 * [x] Mapeamento e leitura completa dos requisitos do edital | 7 fases identificadas e planejadas
 * [x] Estudo do dataset AI4I 2020 Predictive Maintenance | Identificação das colunas, variável-alvo e nível de desbalanceamento
 * [x] Estruturação do repositório do projeto | Criação das pastas `data/`, `outputs/graficos/` e arquivo principal `.ipynb`
+* [ ] **[Fase 1 — EDA]** Apresentação das dimensões do dataset com `.shape`, tipos de dados com `.dtypes` e resumo estatístico com `.describe()`
+* [ ] **[Fase 1 — EDA]** Gráfico de barras do desbalanceamento da variável-alvo `Machine failure` com percentuais anotados
+* [ ] **[Fase 1 — EDA]** Histogramas das variáveis preditoras contínuas para análise de distribuição e assimetria
+* [ ] **[Fase 1 — EDA]** Mapa de calor com correlação de Pearson entre variáveis numéricas
+* [ ] **[Fase 1 — EDA]** Célula de texto interpretando os padrões encontrados e direcionando a estratégia de modelagem
+
 
 ---
