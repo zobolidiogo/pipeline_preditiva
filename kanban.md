@@ -7,17 +7,6 @@
 
 ## 1. A FAZER (To Do)
 
-
-* [ ] **[Fase 5 — Escalonamento]** Aplicação do `StandardScaler` para o modelo KNN
-* [ ] **[Fase 5 — Escalonamento]** Registro da justificativa para utilização ou não de escalonamento nos modelos
-* [ ] **[Fase 6 — Hiperparâmetros]** Treinamento do KNN com diferentes valores de K
-* [ ] **[Fase 6 — Hiperparâmetros]** Treinamento da Árvore de Decisão com diferentes valores de profundidade
-* [ ] **[Fase 6 — Overfitting]** Comparação entre desempenho de treino e teste
-* [ ] **[Fase 6 — Overfitting]** Geração de gráficos para análise de overfitting
-* [ ] **[Fase 6 — Overfitting]** Interpretação dos resultados obtidos
-* [ ] **[Fase 7 — Veredito]** Avaliação final dos modelos selecionados
-* [ ] **[Fase 7 — Veredito]** Gráfico comparativo de desempenho dos modelos
-* [ ] **[Fase 7 — Veredito]** Escolha do modelo final com justificativa técnica
 * [ ] **[Técnico]** Versionamento do projeto com Git e definição da estratégia de branches
 * [ ] **[Técnico]** Elaboração da documentação completa no `README.md`
 * [ ] **[Técnico]** Gravação do vídeo demonstrativo (máx. 7 minutos)
@@ -46,5 +35,15 @@
 * [x] **[Fase 4 — Divisão e Balanceamento]** Separação de X (features) e y (target), removendo colunas irrelevantes
 * [x] **[Fase 4 — Divisão e Balanceamento]** Split 80/20 com `stratify=y`
 * [x] **[Fase 4 — Balanceamento]** Aplicação do SMOTE apenas na base de treino
+* [ ] **[Fase 5 — Escalonamento]** Aplicação do `StandardScaler` para o modelo KNN
+* [ ] **[Fase 5 — Escalonamento]** Registro da justificativa para utilização ou não de escalonamento nos modelos
+* [ ] **[Fase 6 — Hiperparâmetros]** Treinamento do KNN com diferentes valores de K
+* [ ] **[Fase 6 — Hiperparâmetros]** Treinamento da Árvore de Decisão com diferentes valores de profundidade
+* [ ] **[Fase 6 — Overfitting]** Comparação entre desempenho de treino e teste
+* [ ] **[Fase 6 — Overfitting]** Geração de gráficos para análise de overfitting
+* [ ] **[Fase 6 — Overfitting]** Interpretação dos resultados obtidos
+* [ ] **[Fase 7 — Veredito]** Avaliação final dos modelos selecionados
+* [ ] **[Fase 7 — Veredito]** Gráfico comparativo de desempenho dos modelos
+* [ ] **[Fase 7 — Veredito]** Escolha do modelo final com justificativa técnica
 
 ---
