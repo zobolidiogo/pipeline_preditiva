@@ -7,11 +7,7 @@
 
 ## 1. A FAZER (To Do)
 
-* [ ] Configuração do ambiente local de desenvolvimento | Ambiente: VS Code + Jupyter Notebook
-* [ ] Instalação e registro das dependências no `requirements.txt` | pandas, numpy, scikit-learn, imbalanced-learn, seaborn
-* [ ] Mapeamento e leitura completa dos requisitos do edital | 7 fases identificadas e planejadas
-* [ ] Estudo do dataset AI4I 2020 Predictive Maintenance | Identificação das colunas, variável-alvo e nível de desbalanceamento
-* [ ] Estruturação do repositório do projeto | Criação das pastas `data/`, `outputs/graficos/` e arquivo principal `.ipynb`
+
 * [ ] **[Fase 1 — EDA]** Apresentação das dimensões do dataset com `.shape`, tipos de dados com `.dtypes` e resumo estatístico com `.describe()`
 * [ ] **[Fase 1 — EDA]** Gráfico de barras do desbalanceamento da variável-alvo `Machine failure` com percentuais anotados
 * [ ] **[Fase 1 — EDA]** Histogramas das variáveis preditoras contínuas para análise de distribuição e assimetria
@@ -48,5 +44,11 @@
 ---
 
 ## 3. CONCLUÍDO (Done)
+
+* [x] Configuração do ambiente local de desenvolvimento | Ambiente: VS Code + Jupyter Notebook
+* [x] Instalação e registro das dependências no `requirements.txt` | pandas, numpy, scikit-learn, imbalanced-learn, seaborn
+* [x] Mapeamento e leitura completa dos requisitos do edital | 7 fases identificadas e planejadas
+* [x] Estudo do dataset AI4I 2020 Predictive Maintenance | Identificação das colunas, variável-alvo e nível de desbalanceamento
+* [x] Estruturação do repositório do projeto | Criação das pastas `data/`, `outputs/graficos/` e arquivo principal `.ipynb`
 
 ---
