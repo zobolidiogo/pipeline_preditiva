@@ -7,9 +7,7 @@
 
 ## 1. A FAZER (To Do)
 
-* [ ] **[Fase 4 — Divisão e Balanceamento]** Separação de X (features) e y (target), removendo colunas irrelevantes
-* [ ] **[Fase 4 — Divisão e Balanceamento]** Split 80/20 com `stratify=y`
-* [ ] **[Fase 4 — Balanceamento]** Aplicação do SMOTE apenas na base de treino
+
 * [ ] **[Fase 5 — Escalonamento]** Aplicação do `StandardScaler` para o modelo KNN
 * [ ] **[Fase 5 — Escalonamento]** Registro da justificativa para utilização ou não de escalonamento nos modelos
 * [ ] **[Fase 6 — Hiperparâmetros]** Treinamento do KNN com diferentes valores de K
@@ -45,5 +43,8 @@
 * [x] **[Fase 2 — Data Prep]** Geração de boxplots para identificação e análise de outliers nas variáveis contínuas
 * [x] **[Fase 3 — Feature Engineering]** Criação da coluna `potencia = Rotational speed × Torque`
 * [x] **[Fase 3 — Feature Engineering]** Validação da nova feature por meio de análises gráficas e estatísticas
+* [x] **[Fase 4 — Divisão e Balanceamento]** Separação de X (features) e y (target), removendo colunas irrelevantes
+* [x] **[Fase 4 — Divisão e Balanceamento]** Split 80/20 com `stratify=y`
+* [x] **[Fase 4 — Balanceamento]** Aplicação do SMOTE apenas na base de treino
 
 ---
