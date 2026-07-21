@@ -7,7 +7,6 @@
 
 ## 1. A FAZER (To Do)
 
-* [ ] **[Técnico]** Versionamento do projeto com Git e definição da estratégia de branches
 * [ ] **[Técnico]** Elaboração da documentação completa no `README.md`
 * [ ] **[Técnico]** Gravação do vídeo demonstrativo (máx. 7 minutos)
 * [ ] **[Técnico]** Submissão dos links no AVA (GitHub + Google Drive do vídeo)
@@ -35,15 +34,17 @@
 * [x] **[Fase 4 — Divisão e Balanceamento]** Separação de X (features) e y (target), removendo colunas irrelevantes
 * [x] **[Fase 4 — Divisão e Balanceamento]** Split 80/20 com `stratify=y`
 * [x] **[Fase 4 — Balanceamento]** Aplicação do SMOTE apenas na base de treino
-* [ ] **[Fase 5 — Escalonamento]** Aplicação do `StandardScaler` para o modelo KNN
-* [ ] **[Fase 5 — Escalonamento]** Registro da justificativa para utilização ou não de escalonamento nos modelos
-* [ ] **[Fase 6 — Hiperparâmetros]** Treinamento do KNN com diferentes valores de K
-* [ ] **[Fase 6 — Hiperparâmetros]** Treinamento da Árvore de Decisão com diferentes valores de profundidade
-* [ ] **[Fase 6 — Overfitting]** Comparação entre desempenho de treino e teste
-* [ ] **[Fase 6 — Overfitting]** Geração de gráficos para análise de overfitting
-* [ ] **[Fase 6 — Overfitting]** Interpretação dos resultados obtidos
-* [ ] **[Fase 7 — Veredito]** Avaliação final dos modelos selecionados
-* [ ] **[Fase 7 — Veredito]** Gráfico comparativo de desempenho dos modelos
-* [ ] **[Fase 7 — Veredito]** Escolha do modelo final com justificativa técnica
+* [x] **[Fase 5 — Escalonamento]** Aplicação do `StandardScaler` para o modelo KNN
+* [x] **[Fase 5 — Escalonamento]** Registro da justificativa para utilização ou não de escalonamento nos modelos
+* [x] **[Fase 6 — Hiperparâmetros]** Treinamento do KNN com diferentes valores de K
+* [x] **[Fase 6 — Hiperparâmetros]** Treinamento da Árvore de Decisão com diferentes valores de profundidade
+* [x] **[Fase 6 — Overfitting]** Comparação entre desempenho de treino e teste
+* [x] **[Fase 6 — Overfitting]** Geração de gráficos para análise de overfitting
+* [x] **[Fase 6 — Overfitting]** Interpretação dos resultados obtidos
+* [x] **[Fase 7 — Veredito]** Avaliação final dos modelos selecionados
+* [x] **[Fase 7 — Veredito]** Gráfico comparativo de desempenho dos modelos
+* [x] **[Fase 7 — Veredito]** Escolha do modelo final com justificativa técnica
+* [x] **[Técnico]** Versionamento do projeto com Git e definição da estratégia de branches
+
 
 ---
