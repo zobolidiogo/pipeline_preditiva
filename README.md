@@ -172,7 +172,7 @@ pipeline_preditiva/
 
 ## Vídeo Demonstrativo
 
-Link do vídeo: 
+Link do vídeo: [https://drive.google.com/file](https://drive.google.com/file/d/1YL3mM_CJuVrLCr2ACz6IyKvQSqh5vqPR/view?usp=sharing)
 
 O vídeo apresenta o objetivo do sistema, demonstração de funcionamento, organização das tarefas, branches utilizadas e argumentação das escolhas técnicas do projeto.
 
