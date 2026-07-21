@@ -7,13 +7,9 @@
 
 ## 1. A FAZER (To Do)
 
-
-* [ ] **[Técnico]** Gravação do vídeo demonstrativo (máx. 7 minutos)
-* [ ] **[Técnico]** Submissão dos links no AVA (GitHub + Google Drive do vídeo)
-
 ---
 
-## 3. CONCLUÍDO (Done)
+## 2. CONCLUÍDO (Done)
 
 * [x] Configuração do ambiente local de desenvolvimento | Ambiente: VS Code + Jupyter Notebook
 * [x] Instalação e registro das dependências no `requirements.txt` | pandas, numpy, scikit-learn, imbalanced-learn, seaborn
@@ -46,5 +42,7 @@
 * [x] **[Fase 7 — Veredito]** Escolha do modelo final com justificativa técnica
 * [x] **[Técnico]** Versionamento do projeto com Git e definição da estratégia de branches
 * [x] **[Técnico]** Elaboração da documentação completa no `README.md`
+* [x] **[Técnico]** Gravação do vídeo demonstrativo (máx. 7 minutos)
+* [x] **[Técnico]** Submissão dos links no AVA (GitHub + Google Drive do vídeo)
 
 ---
