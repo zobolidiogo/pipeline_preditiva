@@ -1,13 +1,13 @@
 # Quadro Kanban - Pipeline Preditivo
 
-> **Status do Projeto:** Não iniciado
+> **Status do Projeto:** Finalizado!
 > **Metodologia:** Kanban Visual adaptado para documentação Markdown.
 
 ---
 
 ## 1. A FAZER (To Do)
 
-* [ ] **[Técnico]** Elaboração da documentação completa no `README.md`
+
 * [ ] **[Técnico]** Gravação do vídeo demonstrativo (máx. 7 minutos)
 * [ ] **[Técnico]** Submissão dos links no AVA (GitHub + Google Drive do vídeo)
 
@@ -45,6 +45,6 @@
 * [x] **[Fase 7 — Veredito]** Gráfico comparativo de desempenho dos modelos
 * [x] **[Fase 7 — Veredito]** Escolha do modelo final com justificativa técnica
 * [x] **[Técnico]** Versionamento do projeto com Git e definição da estratégia de branches
-
+* [x] **[Técnico]** Elaboração da documentação completa no `README.md`
 
 ---
